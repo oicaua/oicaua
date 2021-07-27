@@ -2,7 +2,7 @@
 
 #### Meus contatos:
 
-##### Link do meu instagram: https://www.instagram.com/oicaua/
 ##### Meu e-mail: cauaperrella@gmail.com
+##### Link do meu instagram: https://www.instagram.com/oicaua/
 
 #### Vamos nos conectar?
