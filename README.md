@@ -1,10 +1,7 @@
 ### Hi! I'm Cauã, Web developer. 
 ### If you are looking for someone who can make full-stack projects you found him!
 
-#### Favourite Tools:
-##### -> Node Js
-##### -> React
-##### -> MongoDB
+#### Favourite Tools: Node Js; React; MongoDB
 
 #### Contacts:
 
