@@ -1,4 +1,5 @@
-### Hi! I'm Cauã, Web developer. If you are looking for someone who can make full-stack projects using technologies as Node.js, React and MongoDB you found him!
+### Hi! I'm Cauã, Web developer. 
+### If you are looking for someone who can make full-stack projects using technologies as Node.js, React and MongoDB you found him!
 
 #### Contacts:
 
