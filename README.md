@@ -1,8 +1,8 @@
-### Olá, eu sou o Cauã, estudante de programação há 2 anos. Faço projetos em HTML, CSS, Javascript e frameworks (como Vue.js e React).
+### Hi! I'm Cauã, Web developer. If you are looking for someone who can make full-stack projects using technologies as Node.js, React and MongoDB you found him!
 
-#### Meus contatos:
+#### Contacts:
 
-##### Meu e-mail: cauaperrella@gmail.com
-##### Link do meu instagram: https://www.instagram.com/oicaua/
+##### E-mail: cauaperrella@gmail.com
+##### LinkedIn: https://www.linkedin.com/in/caua-perrella/
 
-#### Vamos nos conectar?
+#### Let's connect?
